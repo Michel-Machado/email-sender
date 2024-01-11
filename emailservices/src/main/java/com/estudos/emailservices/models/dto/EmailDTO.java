@@ -11,7 +11,7 @@ public class EmailDTO {
     private String owner;
     @NotBlank
     @Email
-    private String to;
+    private String para;
     @NotBlank
     private String title;
     @NotBlank
